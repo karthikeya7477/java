@@ -3,7 +3,6 @@ class Test2
 public static void main(String[] args) 
 {
     int val=550;
-    // TODO Auto-generated method stub
     while(val>=0)
     {
         if(val==1)
